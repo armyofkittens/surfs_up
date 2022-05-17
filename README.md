@@ -5,7 +5,7 @@ The purpose of this analysis is to ensure that our business has a steady cash fl
 ## Results
 * The average temperature only varies by 4 degrees between summer and winter.
 * Temperatures do reach ca minimum of 56 degrees in December, however that is a large deviation from the average, which means overall the weather is still warm.
-* Temperature variation and precipitation is not dramatic overall between summer and winter. 
+* Temperature and precipitation variation is not dramatic overall between summer and winter. 
 
 <p align="left">
   <img src="https://github.com/armyofkittens/surfs_up/blob/main/Resources/June%20Temp.png" width="200"/>

@@ -24,4 +24,4 @@ After analyzing both the precipitation and temperature, it is evident that neith
 
 ### Suggestions for additional queries
 * Explore how altitude may affect seasonality
-* Explore the spring and fall months in addition to summer and winter
+* Compare temperature in the spring and fall months to summer and winter

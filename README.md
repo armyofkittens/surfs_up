@@ -7,6 +7,14 @@ The purpose of this analysis is to ensure that our business has a steady cash fl
 * Temperatures do reach ca minimum of 56 degrees in December, however that is a large deviation from the average, which means overall the weather is still warm.
 * Temperature variation is not dramatic overall between summer and winter. 
 
+<p align="left">
+  <img src="https://github.com/armyofkittens/surfs_up/blob/main/Resources/June%20Temp.png" width="200"/>
+</p>
+
+<p align="left">
+  <img src="https://github.com/armyofkittens/surfs_up/blob/main/Resources/December%20Temp.png" width="200"/>
+</p>
+
 ## Summary
 After analyzing both the precipitation and temperature, it is evident that neither fluctuate dramatically. The average temperatue is in the low 70's between both June and December, and both carry a similar standard deviation. In conclusion, the weather should not impact Surf and Shake's revenue stream.
 
